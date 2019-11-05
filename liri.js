@@ -48,7 +48,7 @@ switch (command) {
 
 function spotifyThisSong(song){
     spotify.search({ type: 'track', query: song, limit: 1}, function(error, data){
-        if(!error){
+        // if(!error){
         for(var i = 0; i < data.tracks.items.length; i++){
             var songInfo = data.tracks.items[i];
                       //artist
@@ -60,10 +60,32 @@ function spotifyThisSong(song){
                       //album name
             console.log("Album: " + songInfo.album.name);
             console.log("-----------------------");
+
+            var songData = [
+              "Artist: " + songInfo.artists[0].name,
+              "Song: " + songInfo.name,
+              "Preview URL: " + songInfo.preview_url,
+              "Album: " + songInfo.album.name
+            ].join("\n\n");
+
+            fs.appendFile("log.txt", songData + divider, function(err) {
+
+              // If an error was experienced we will log it.
+              if (err) {
+                console.log(err);
+                console.log("error occured")
+              }
+            
+              // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+              else {
+                console.log("Content Added!");
+              }
+            });
+
             } 
-        } else {
-        console.log('Error occurred.');
-        }
+        // } else {
+        // console.log('Error occurred.');
+        // }
     });
     }
 

@@ -1,143 +1,44 @@
-Title: Jaws
+Artist: Michael Jackson
 
-Release Year: 1975
+Song: Earth Song
 
-IMdB Rating: 8.0
+Preview URL: https://p.scdn.co/mp3-preview/ffe3ced66631a6b7cb309387e032620bdfbe81fc?cid=38dc7d625a664e53917e6ced469a63d5
+
+Album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+------------------------------------------------------------
+
+Title: Avengers: Endgame
+
+Release Year: 2019
+
+IMdB Rating: 8.5
 
 Rotten Tomatoes Rating: N/A
 
 Country: USA
 
-Language: English
+Language: English, Japanese, Xhosa
 
-Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Plot: After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.
 
-Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
 ------------------------------------------------------------
 
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+taylor swift Concert Information:
+
+Venue: Werchter Boutique
+
+Location: Rotselaar, 
+
+Date: 2020-06-20T19:00:00
 ------------------------------------------------------------
 
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
+Artist: Backstreet Boys
 
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
+Song: I Want It That Way
 
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=38dc7d625a664e53917e6ced469a63d5
 
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-------------------------------------------------------------
-
-Venue: The Sketchbook Tour,Location: Norfolk, VA,Date: 2019-11-02T20:00:00
-------------------------------------------------------------
-
-Venue: The Sketchbook Tour,Location: Baltimore, MD,Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-Venue: The Sketchbook Tour,Location: Baltimore, MD,Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-Venue: The Sketchbook Tour,Location: Norfolk, VA,Date: 2019-11-02T20:00:00
-------------------------------------------------------------
-
-Venue: The Sketchbook Tour,Location: Baltimore, MD,Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-tank Concert Information:
-
-Venue: The Sketchbook Tour
-
-Location: Baltimore, 
-
-Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-fantasia Concert Information:
-
-Venue: UMBC Stadium Complex
-
-Location: Baltimore, 
-
-Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-tank Concert Information:
-
-Venue: The Sketchbook Tour
-
-Location: Baltimore, 
-
-Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-chris Concert Information:
-
-Venue: Zenith de Caen
-
-Location: Caen, 
-
-Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-fantasia Concert Information:
-
-Venue: UMBC Stadium Complex
-
-Location: Baltimore, 
-
-Date: 2019-11-01T20:00:00
-------------------------------------------------------------
-
-lil baby Concert Information:
-
-Venue: Scope Arena
-
-Location: Norfolk, 
-
-Date: 2019-11-01T00:00:00
+Album: The Hits--Chapter One
 ------------------------------------------------------------
 
